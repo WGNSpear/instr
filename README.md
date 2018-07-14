@@ -4,7 +4,7 @@ Answer Bot
 
 Log In
 Text .login  in DM to bot.
-Paste reply in HQTie Firefox console
+Paste reply in Firefox console
 paste Console .session thing into DM with bot
 Done
 Close stuff if I want to.
